@@ -1,0 +1,14 @@
+
+Добавлены следующие файлы:
+
+1) mvp:
+1.1) Presenter:
+BasePresenter - базовый presenter для остальных презентеров.
+MainPresenter, SignInPresenter, SignUpPresenter и SplashPresenter - Презентеры для Активностей Main, SignIn, SignUp и Splash соответственно.
+1.2) View:
+BaseView - базовая View для остальных вьюшек.
+MainView,SignInView,SignUpView,SplashView - Вьюшки для Активностей Main, SignIn, SignUp и Splash соответственно.
+
+2) ui:
+BaseActivity - базовая активность для остальных активностей.
+MainActivity, SignInActivity, SignUpActivity, SplashActivity - активности.
